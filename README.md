@@ -1,5 +1,5 @@
 # Trumpalyze
-Takes an SRS of 100 Trump tweets and plots their tweet times in a histogram.
+Takes an SRS of 100 Trump tweets and plots their tweet times in a histogram. I was just curious about when he tweeted most often.
 
 To run:
 - Clone the repository:
