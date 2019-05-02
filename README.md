@@ -6,4 +6,4 @@ To run:
 ` git clone https://github.com/FrankWhoee/Trumpalyze.git`
 or click the green button that says `Clone or download` and download as ZIP
 - Extract the files
-- Execute: `python3 collector.py`
+- Execute in terminal: `python3 collector.py`
